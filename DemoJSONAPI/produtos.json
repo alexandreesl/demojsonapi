@@ -1,0 +1,23 @@
+{
+    "id":123,
+    "descricao":"Produto 1",
+    "Classificacao":{
+        "nivel":1,
+        "subnivel":2,
+        "secao":"eletrodomesticos"
+    },
+    "fornecedores":[
+        {
+            "id":1,
+            "descricao":"brastemp"
+        },
+        {
+            "id":2,
+            "descricao":"consul"
+        },
+        {
+            "id":3,
+            "descricao":"eletrolux"
+        }
+    ]
+}
